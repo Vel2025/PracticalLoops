@@ -41,7 +41,7 @@
 //         console.log(i)
 //     }
 // }
-fit
+
 // combining all the above loop into one loop
 
 for (i=1; i<101; i++){
@@ -58,3 +58,4 @@ for (i=1; i<101; i++){
         console.log(i)
     }
 }
+
